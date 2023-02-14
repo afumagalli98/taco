@@ -1,3 +1,5 @@
 module github.com/afumagalli98/taco
 
-go 1.19
+require github.com/fnproject/fdk-go v0.0.26
+
+go 1.17
